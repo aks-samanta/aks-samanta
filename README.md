@@ -18,15 +18,9 @@
 
 
 # 💻 Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Spring](https://img.shields.io/badge/Spring-%234ea94b.svg?style=for-the-badge&logo=spring&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-%23404d59.svg?style=for-the-badge&logo=mysql&logoColor=%2361DAFB) 
-![Java8](https://img.shields.io/badge/Java8-%2320232a.svg?style=for-the-badge&logo=java&logoColor=%2361DAFB) 
-![SpringBoot](https://img.shields.io/badge/springboot-6DA55F?style=for-the-badge&logo=springboot&logoColor=white) 
-![Hibernate](https://img.shields.io/badge/hibernate-CA4245?style=for-the-badge&logo=hibernate&logoColor=white) 
-![Maven](https://img.shields.io/badge/Maven-%23593d88.svg?style=for-the-badge&logo=maven&logoColor=white) 
+# 💻 Tech Stack:
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,mysql,spring,hibernate,git,netlify,vscode)](https://skillicons.dev)
 
 #  Tools
 ![VSCode](https://img.shields.io/badge/vscode-%234ED1C5.svg?style=for-the-badge&logo=vscode&logoColor=white) 

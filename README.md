@@ -39,6 +39,11 @@
 
 <br/>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=aks-samanta&theme=radical&no-frame=false&no-bg=false&margin-w=5)
+
+<br/>
+
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=aks-samanta&theme=react&hide_border=false&include_all_commits=true&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=aks-samanta&theme=react&hide_border=false)<br/>
 

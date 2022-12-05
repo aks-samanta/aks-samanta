@@ -1,20 +1,27 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Akash Samanta</h1>
-<h4 align="center">I'm a striving Full Stack Web developer skilled in Java stack for Backend who likes to explore latest tech and software 😃. I'm proficient in writing production ready code, with a knack for Problem Solving, Critical Thinking, and attention to detail. ✨.</h4>
 
-🌍 I'm currently living in Singrauli, Madhya Pradesh.
+## I'm a striving Full Stack Web developer skilled in Java stack for Backend who likes to explore latest tech and software 😃. I'm proficient in writing production ready code, with a knack for Problem Solving, Critical Thinking, and attention to detail. ✨.
 
-⚛️ I love to Experiment with Java, CSS, and Web Services.
+### 🌍 I'm currently living in Singrauli, Madhya Pradesh.
 
-🚀 I have learned couple of Java frameworks like Spring and Hibernate.
+### ⚛️ I love to Experiment with Java, CSS, and Web Services.
 
-😃 My current interest includes Backend.
+### 🚀 I have learned couple of Java frameworks like Spring and Hibernate.
 
-📧 Email - aks2.samanta90915@gmil.com
+### 😃 My current interest includes Backend.
 
-💼 Portfolio - [aks-samanta.github.io](https://aks-samanta.github.io/)
+### 📧 Email - aks2.samanta90915@gmil.com
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-samanta/) 
+### 💼 Portfolio - [aks-samanta.github.io](https://aks-samanta.github.io/)
+
+# 🌐 Socials:
+<p align="left">
+<a href="https://linkedin.com/in/akash-samanta" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Akash-Samanta" height="50" width="60"  style="margin-right: 10px;"/></a>
+<a href="https://www.hackerrank.com/aks2_samanta9091" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Akash Samanta" height="50" width="60" style="margin-right: 10px;"/></a>
+<a href="https://leetcode.com/aks-samanta/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Akash Samanta" height="50" width="60" style="margin-right: 10px;"/></a>
+  
+</p>
+
 
 
 

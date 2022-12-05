@@ -17,15 +17,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-samanta/) 
 
 
-# 💻 Tech Stack
+
 # 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,mysql,spring,hibernate,git,netlify,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,mysql,spring,hibernate,netlify,maven)](https://skillicons.dev)
 
 #  Tools
-![VSCode](https://img.shields.io/badge/vscode-%234ED1C5.svg?style=for-the-badge&logo=vscode&logoColor=white) 
-![AWS](https://img.shields.io/badge/aws-%23563D7C.svg?style=for-the-badge&logo=aws&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23007ACC.svg?style=for-the-badge&logo=git&logoColor=white) 
+[![My Skills](https://skillicons.dev/icons?i=git,vscode,eclipse,github)](https://skillicons.dev)
 
 
 

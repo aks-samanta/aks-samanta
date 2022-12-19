@@ -47,9 +47,9 @@
 # 📊 GitHub Stats
 <div align= "center"> 
   
-<img src = "https://github-readme-stats.vercel.app/api?username=aks-samanta&theme=react&hide_border=false&include_all_commits=true&count_private=false"/>
+<img src = "https://github-readme-stats.vercel.app/api?username=aks-samanta&theme=react&hide_border=false&include_all_commits=true&count_private=true"/>
             
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aks-samanta&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aks-samanta&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
   
 <img src = "https://github-readme-streak-stats.herokuapp.com/?user=aks-samanta&theme=react&hide_border=false" />
 </div>

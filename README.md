@@ -5,20 +5,19 @@
 
 # Hi! 🙋‍♂️ I'm Akash Samanta
 
-### Java Backend Developer with experience in developing production-ready solutions using Java, Spring frameworks, DBMS, etc. Always exploring the latest tech and software with a passion for problem-solving, critical thinking, and attention to detail.
+### Java Backend Developer with experience in developing production-ready solutions using Java, Spring frameworks, DBMS etc. Always exploring the latest tech and software with a passion for problem-solving, critical thinking, and attention to detail.
 
 
+ ### 🌍 Location:- I am currently located in Singrauli, Madhya Pradesh.
 
-## 🌍 Location
-I am currently located in Singrauli, Madhya Pradesh.
 
-## ⚛️ Areas of Interest
-I enjoy exploring and working with Java, CSS, and Web Services. Currently, I am centered on Backend Development.
+### ⚛️ Areas of Interest:- I enjoy exploring and working with Java, CSS, and Web Services. Currently, I am centered on Backend Development.
 
+---
 
 ## 📧 Contact Me
-- Email: aks2.samanta90915@gmil.com
-- Portfolio: [aks-samanta.github.io](https://aks-samanta.github.io/)
+### - Email: aks2.samanta90915@gmil.com
+### - Portfolio: [aks-samanta.github.io](https://aks-samanta.github.io/)
 
 
 
@@ -26,16 +25,23 @@ I enjoy exploring and working with Java, CSS, and Web Services. Currently, I am 
 <p >
   <a href="https://linkedin.com/in/akash-samanta" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" />
+    LinkedIn 
   </a>
+  </p>
+   <p> 
   <a href="https://www.hackerrank.com/aks2_samanta9091" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="30" height="30" />
+     HackerRank 
   </a>
+  </p>
+   <p>
   <a href="https://leetcode.com/aks-samanta/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="30" height="30" />
+     LeetCode 
   </a>
 </p>
 
-
+----
 
 ## Tech Stack:
 

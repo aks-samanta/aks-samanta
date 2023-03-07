@@ -28,7 +28,7 @@
   </a>
   </p>
    <p> 
-  <a href="https://www.hackerrank.com/aks2_samanta9091" target="_blank">
+  <a href="https://www.hackerrank.com/aks_samanta" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="30" height="30" />
      HackerRank 
   </a>

@@ -1,51 +1,30 @@
+<img src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" alt="GitHub Gist" width="1900" height="400" >
 
 
 
+# Akash Samanta
 
-# Hi! 🙋‍♂️ I'm Akash Samanta
+## Java Backend Web Developer
 
-### Java Backend Developer with experience in developing production-ready solutions using Java, Spring frameworks, DBMS etc. Always exploring the latest tech and software with a passion for problem-solving, critical thinking, and attention to detail.
+<img src="https://img.shields.io/badge/Java-%3C%2F%3E-blue" alt="Java Logo" /> <img src="https://img.shields.io/badge/SpringBoot-%3C%2F%3E-green" alt="SpringBoot Logo" /> <img src="https://img.shields.io/badge/MySQL-%3C%2F%3E-blue" alt="MySQL Logo" /> <img src="https://img.shields.io/badge/SpringSecurity-%3C%2F%3E-orange" alt="SpringSecurity Logo" /> <img src="https://img.shields.io/badge/SwaggerUI-%3C%2F%3E-green" alt="SwaggerUI Logo" /> <img src="https://img.shields.io/badge/AWS-%3C%2F%3E-yellow" alt="AWS Logo" />
 
+📍 Singrauli, Madhya Pradesh &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📧 [aks2.samanta90915@gmail.com](mailto:aks2.samanta90915@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📱 [+91-9589650418](tel:+919589650418)
 
- ### 🌍 Location:- I am currently located in Singrauli, Madhya Pradesh.
-
-
-### ⚛️ Areas of Interest:- I enjoy exploring and working with Java, CSS, and Web Services. Currently, I am centered on Backend Development.
-
----
-
-## 📧 Contact Me
-### - Email: aks2.samanta90915@gmil.com
-### - Portfolio: [aks-samanta.github.io](https://aks-samanta.github.io/)
+### About me
+🧙‍♂️ I'm the Java wizard you've been searching for! With over 1200 hours of coding under my belt, I've developed some serious skills in creating 🌐 websites and 🚀 APIs through several projects. I have a sharp eye 👁️ for detail and a track record of delivering projects on time ⏰. Let's make some tech magic happen! 🎩✨
 
 
 
-## 🌐 Socials
-<p >
-  <a href="https://linkedin.com/in/akash-samanta" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" />
-    LinkedIn 
-  </a>
-  </p>
-   <p> 
-  <a href="https://www.hackerrank.com/aks_samanta" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="30" height="30" />
-     HackerRank 
-  </a>
-  </p>
-   <p>
-  <a href="https://leetcode.com/aks-samanta/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="30" height="30" />
-     LeetCode 
-  </a>
-</p>
+## 🚀 Let's connect!
+[<img src="https://img.icons8.com/material/74/976789/linkedin.png"/>](https://www.linkedin.com/in/akash-samanta/) 
+[<img src="https://img.icons8.com/material/74/976789/portfolio.png"/>](https://akash-samanta.github.io/)
 
-----
+
 
 ## Tech Stack:
 
 <p >
-  <img src="https://skillicons.dev/icons?i=js,html,css,java,mysql,spring,hibernate,netlify,maven" alt="Tech Stack" width="600"/>
+  <img src="https://skillicons.dev/icons?i=js,html,css,java,mysql,spring,hibernate,netlify,maven,aws" alt="Tech Stack" width="600"/>
 </p>
 
 ## Tools

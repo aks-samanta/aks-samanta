@@ -24,7 +24,7 @@
 ## Tech Stack:
 
 <p >
-  <img src="https://skillicons.dev/icons?i=js,html,css,java,mysql,spring,hibernate,netlify,maven,aws" alt="Tech Stack" width="600"/>
+  <img src="https://skillicons.dev/icons?i=js,html,css,angular,bootstrap,typescript,java,mysql,spring,hibernate,netlify,maven,aws" alt="Tech Stack" width="900"/>
 </p>
 
 ## Tools
